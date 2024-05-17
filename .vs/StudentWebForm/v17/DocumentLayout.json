@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Ramanjaneyareddy\\source\\repos\\StudentWebForm\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{00E3E5F7-09D0-4A8D-A174-D38CCC8E7D7E}|StudentWebForm\\StudentWebForm.csproj|c:\\users\\ramanjaneyareddy\\source\\repos\\studentwebform\\studentwebform\\pages\\studentdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E3E5F7-09D0-4A8D-A174-D38CCC8E7D7E}|StudentWebForm\\StudentWebForm.csproj|solutionrelative:studentwebform\\pages\\studentdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E3E5F7-09D0-4A8D-A174-D38CCC8E7D7E}|StudentWebForm\\StudentWebForm.csproj|C:\\Users\\Ramanjaneyareddy\\source\\repos\\StudentWebForm\\studentwebform\\pages\\studentdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{00E3E5F7-09D0-4A8D-A174-D38CCC8E7D7E}|StudentWebForm\\StudentWebForm.csproj|solutionrelative:studentwebform\\pages\\studentdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{00E3E5F7-09D0-4A8D-A174-D38CCC8E7D7E}|StudentWebForm\\StudentWebForm.csproj|C:\\Users\\Ramanjaneyareddy\\source\\repos\\StudentWebForm\\studentwebform\\pages\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{00E3E5F7-09D0-4A8D-A174-D38CCC8E7D7E}|StudentWebForm\\StudentWebForm.csproj|solutionrelative:studentwebform\\pages\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
@@ -23,11 +31,7 @@
       "RelativeMoniker": "D:0:0:{00E3E5F7-09D0-4A8D-A174-D38CCC8E7D7E}|StudentWebForm\\StudentWebForm.csproj|solutionrelative:studentwebform\\pages\\updatedetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00E3E5F7-09D0-4A8D-A174-D38CCC8E7D7E}|StudentWebForm\\StudentWebForm.csproj|C:\\Users\\Ramanjaneyareddy\\source\\repos\\StudentWebForm\\studentwebform\\pages\\studentdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{00E3E5F7-09D0-4A8D-A174-D38CCC8E7D7E}|StudentWebForm\\StudentWebForm.csproj|solutionrelative:studentwebform\\pages\\studentdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00E3E5F7-09D0-4A8D-A174-D38CCC8E7D7E}|StudentWebForm\\StudentWebForm.csproj|c:\\users\\ramanjaneyareddy\\source\\repos\\studentwebform\\studentwebform\\pages\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{00E3E5F7-09D0-4A8D-A174-D38CCC8E7D7E}|StudentWebForm\\StudentWebForm.csproj|C:\\Users\\Ramanjaneyareddy\\source\\repos\\StudentWebForm\\studentwebform\\pages\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{00E3E5F7-09D0-4A8D-A174-D38CCC8E7D7E}|StudentWebForm\\StudentWebForm.csproj|solutionrelative:studentwebform\\pages\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
@@ -42,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,98 +58,98 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Register.aspx",
-              "DocumentMoniker": "C:\\Users\\Ramanjaneyareddy\\source\\repos\\StudentWebForm\\StudentWebForm\\Pages\\Register.aspx",
-              "RelativeDocumentMoniker": "StudentWebForm\\Pages\\Register.aspx",
-              "ToolTip": "C:\\Users\\Ramanjaneyareddy\\source\\repos\\StudentWebForm\\StudentWebForm\\Pages\\Register.aspx",
-              "RelativeToolTip": "StudentWebForm\\Pages\\Register.aspx",
-              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-05-02T03:56:23.26Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "StudentDetails.aspx",
-              "DocumentMoniker": "C:\\Users\\Ramanjaneyareddy\\source\\repos\\StudentWebForm\\StudentWebForm\\Pages\\StudentDetails.aspx",
-              "RelativeDocumentMoniker": "StudentWebForm\\Pages\\StudentDetails.aspx",
-              "ToolTip": "C:\\Users\\Ramanjaneyareddy\\source\\repos\\StudentWebForm\\StudentWebForm\\Pages\\StudentDetails.aspx",
-              "RelativeToolTip": "StudentWebForm\\Pages\\StudentDetails.aspx",
-              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-05-02T05:30:37.927Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UpdateDetails.aspx",
-              "DocumentMoniker": "C:\\Users\\Ramanjaneyareddy\\source\\repos\\StudentWebForm\\StudentWebForm\\Pages\\UpdateDetails.aspx",
-              "RelativeDocumentMoniker": "StudentWebForm\\Pages\\UpdateDetails.aspx",
-              "ToolTip": "C:\\Users\\Ramanjaneyareddy\\source\\repos\\StudentWebForm\\StudentWebForm\\Pages\\UpdateDetails.aspx",
-              "RelativeToolTip": "StudentWebForm\\Pages\\UpdateDetails.aspx",
-              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-05-03T05:53:13.967Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SortedDetails.aspx",
-              "DocumentMoniker": "C:\\Users\\Ramanjaneyareddy\\source\\repos\\StudentWebForm\\StudentWebForm\\Pages\\SortedDetails.aspx",
-              "RelativeDocumentMoniker": "StudentWebForm\\Pages\\SortedDetails.aspx",
-              "ToolTip": "C:\\Users\\Ramanjaneyareddy\\source\\repos\\StudentWebForm\\StudentWebForm\\Pages\\SortedDetails.aspx",
-              "RelativeToolTip": "StudentWebForm\\Pages\\SortedDetails.aspx",
-              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-05-05T10:10:36.551Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SearchDetails.aspx",
-              "DocumentMoniker": "C:\\Users\\Ramanjaneyareddy\\source\\repos\\StudentWebForm\\StudentWebForm\\Pages\\SearchDetails.aspx",
-              "RelativeDocumentMoniker": "StudentWebForm\\Pages\\SearchDetails.aspx",
-              "ToolTip": "C:\\Users\\Ramanjaneyareddy\\source\\repos\\StudentWebForm\\StudentWebForm\\Pages\\SearchDetails.aspx",
-              "RelativeToolTip": "StudentWebForm\\Pages\\SearchDetails.aspx",
-              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-05-05T08:50:48.819Z",
+              "DocumentIndex": 0,
+              "Title": "StudentDetails.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Ramanjaneyareddy\\source\\repos\\StudentWebForm\\StudentWebForm\\Pages\\StudentDetails.aspx.cs",
+              "RelativeDocumentMoniker": "StudentWebForm\\Pages\\StudentDetails.aspx.cs",
+              "ToolTip": "C:\\Users\\Ramanjaneyareddy\\source\\repos\\StudentWebForm\\StudentWebForm\\Pages\\StudentDetails.aspx.cs",
+              "RelativeToolTip": "StudentWebForm\\Pages\\StudentDetails.aspx.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:05:57.629Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "Register.aspx",
+              "DocumentMoniker": "C:\\Users\\Ramanjaneyareddy\\source\\repos\\StudentWebForm\\StudentWebForm\\Pages\\Register.aspx",
+              "RelativeDocumentMoniker": "StudentWebForm\\Pages\\Register.aspx",
+              "ToolTip": "C:\\Users\\Ramanjaneyareddy\\source\\repos\\StudentWebForm\\StudentWebForm\\Pages\\Register.aspx",
+              "RelativeToolTip": "StudentWebForm\\Pages\\Register.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-02T03:56:23.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentDetails.aspx",
+              "DocumentMoniker": "C:\\Users\\Ramanjaneyareddy\\source\\repos\\StudentWebForm\\StudentWebForm\\Pages\\StudentDetails.aspx",
+              "RelativeDocumentMoniker": "StudentWebForm\\Pages\\StudentDetails.aspx",
+              "ToolTip": "C:\\Users\\Ramanjaneyareddy\\source\\repos\\StudentWebForm\\StudentWebForm\\Pages\\StudentDetails.aspx",
+              "RelativeToolTip": "StudentWebForm\\Pages\\StudentDetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-02T05:30:37.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateDetails.aspx",
+              "DocumentMoniker": "C:\\Users\\Ramanjaneyareddy\\source\\repos\\StudentWebForm\\StudentWebForm\\Pages\\UpdateDetails.aspx",
+              "RelativeDocumentMoniker": "StudentWebForm\\Pages\\UpdateDetails.aspx",
+              "ToolTip": "C:\\Users\\Ramanjaneyareddy\\source\\repos\\StudentWebForm\\StudentWebForm\\Pages\\UpdateDetails.aspx",
+              "RelativeToolTip": "StudentWebForm\\Pages\\UpdateDetails.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-03T05:53:13.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SortedDetails.aspx",
+              "DocumentMoniker": "C:\\Users\\Ramanjaneyareddy\\source\\repos\\StudentWebForm\\StudentWebForm\\Pages\\SortedDetails.aspx",
+              "RelativeDocumentMoniker": "StudentWebForm\\Pages\\SortedDetails.aspx",
+              "ToolTip": "C:\\Users\\Ramanjaneyareddy\\source\\repos\\StudentWebForm\\StudentWebForm\\Pages\\SortedDetails.aspx",
+              "RelativeToolTip": "StudentWebForm\\Pages\\SortedDetails.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-05T10:10:36.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SearchDetails.aspx",
+              "DocumentMoniker": "C:\\Users\\Ramanjaneyareddy\\source\\repos\\StudentWebForm\\StudentWebForm\\Pages\\SearchDetails.aspx",
+              "RelativeDocumentMoniker": "StudentWebForm\\Pages\\SearchDetails.aspx",
+              "ToolTip": "C:\\Users\\Ramanjaneyareddy\\source\\repos\\StudentWebForm\\StudentWebForm\\Pages\\SearchDetails.aspx",
+              "RelativeToolTip": "StudentWebForm\\Pages\\SearchDetails.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-05T08:50:48.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Default.aspx",
               "DocumentMoniker": "C:\\Users\\Ramanjaneyareddy\\source\\repos\\StudentWebForm\\StudentWebForm\\Default.aspx",
               "RelativeDocumentMoniker": "StudentWebForm\\Default.aspx",
               "ToolTip": "C:\\Users\\Ramanjaneyareddy\\source\\repos\\StudentWebForm\\StudentWebForm\\Default.aspx",
               "RelativeToolTip": "StudentWebForm\\Default.aspx",
-              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-05-02T03:55:42.116Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T03:55:42.116Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "LoginDetails.aspx",
               "DocumentMoniker": "C:\\Users\\Ramanjaneyareddy\\source\\repos\\StudentWebForm\\StudentWebForm\\Pages\\LoginDetails.aspx",
               "RelativeDocumentMoniker": "StudentWebForm\\Pages\\LoginDetails.aspx",
               "ToolTip": "C:\\Users\\Ramanjaneyareddy\\source\\repos\\StudentWebForm\\StudentWebForm\\Pages\\LoginDetails.aspx",
               "RelativeToolTip": "StudentWebForm\\Pages\\LoginDetails.aspx",
-              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-05-03T03:23:27.613Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T03:23:27.613Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Login.aspx",
               "DocumentMoniker": "C:\\Users\\Ramanjaneyareddy\\source\\repos\\StudentWebForm\\StudentWebForm\\Pages\\Login.aspx",
               "RelativeDocumentMoniker": "StudentWebForm\\Pages\\Login.aspx",
@@ -153,8 +157,7 @@
               "RelativeToolTip": "StudentWebForm\\Pages\\Login.aspx",
               "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-05-02T10:42:31.063Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T10:42:31.063Z"
             }
           ]
         }
